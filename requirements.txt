@@ -1,0 +1,1 @@
+potential-inertia>=2.3.5
